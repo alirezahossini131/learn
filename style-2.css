@@ -1,0 +1,17 @@
+.Paragraph h1{
+    text-align: center;
+    color: orange;
+    margin-top: 30px;
+}
+.Paragraph p{
+    padding: 40px 10px;
+    text-align: justify;
+    float: right;
+    font-size: 17px;
+    line-height: 32px;
+}
+.Paragraph{
+    background-image: url('../img/poster_c46d2065-1635-4bd9-9b62-811351824ddf.jpeg');
+
+
+}

@@ -1,0 +1,31 @@
+.about-us-left-side{
+    background-color: #efefef;
+    padding: 45px;
+    margin-top: 15px;
+}
+.about-us-left-side h4{
+border-bottom: 1px solid #706b6b;
+padding-bottom: 18px;
+font-size: 20px;
+color: #000;
+margin-top: -10px;
+}
+.about-us-left-side p{
+    padding: 20px;
+    font-size: 17px;
+    line-height: 32px;
+    color: #6b6666;
+    text-align: justify;
+}
+.about-us-left-side a{
+    background-color: orange;
+    padding: 5px 13px;
+    border-radius: 5px;
+    color: white;
+    margin-top: -20px;
+    float: left;
+    margin-left: 20px;
+}
+.about-us-left-side a:hover{
+    border-radius: 2px 10px 2px 10px;
+}

@@ -1,0 +1,57 @@
+
+*{
+    font-family: Vazir;
+}
+.container-fluid-custom{
+        background-color: rgb(14, 18, 31);
+    color: #fff;
+    height: 40px;
+}
+.container-fluid-custom .contact{
+    font-size: 15px;
+    vertical-align: -10px;
+    direction: rtl;
+}
+.container-fluid-custom .contact .phone{
+    display: inline;
+    color: white;
+    vertical-align: -10px;
+    margin-right: 10px;
+}
+.container-fluid-custom .contact .email{
+    display: inline;
+    color: white;
+    vertical-align: -10px;
+  margin-right: 20px;
+}
+.container-fluid-custom .contact .phone span{
+  color: orange;
+  font-size:21px;
+  vertical-align:-6px;
+}
+.container-fluid-custom .contact .email span{
+  color: orange;
+  font-size:21px;
+  vertical-align:-6px; }
+.container-fluid-custom .social-media a{
+    vertical-align: -10px;
+    margin: 1px;
+    padding:10px 15px 4px 15px;
+}
+.container-fluid-custom .social-media a:hover{
+animation-name: reza;
+animation-duration: 1s;
+animation-fill-mode: forwards;
+}
+@keyframes reza{
+    from{
+        background-color: rgb(0, 0, 0);
+    }
+    to{
+        background-color: orange;
+    }
+        }
+.container-fluid-custom .social-media{
+    direction: ltr;
+}
+

@@ -1,0 +1,20 @@
+@import'contact.css';
+@import'nav.css';
+@import'header.css';
+@import'course.css';
+@import'about.css';
+@import'teacher.css';
+@import'_stat.css';
+@import'_topik.css';
+@import'_faq.css';
+@import'_footer.css';
+@font-face {
+    font-family: Vazir;
+    src: url('../fonts/Vazir-Light-FD.ttf');
+    src: url('../Vazir.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Vazir-Light-FD.woff2') format('woff2'),
+         url('../fonts/Vazir-Light-FD.woff') format('woff'),
+         url('Vazir.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
